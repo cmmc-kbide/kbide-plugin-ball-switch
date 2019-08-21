@@ -1,0 +1,17 @@
+{
+  "name" : "kbide-plugin-ball-switch",
+  "title": "ball-switch",
+  "keywords": "ball-switch, esp32, esp8266, arduino",
+  "description": "ball-switch plugin for KB-IDE",
+  "category":"",
+  "git": "https://github.com/cmmc-kbide/kbide-plugin-ball-switch/",
+  "author": "cmmakerclub",
+  "email": "",
+  "url": "https://github.com/cmmc-kbide/kbide-plugin-ball-switch/",
+  "version": "1.0.0",
+  "board" : "",
+  "platform": ["arduino-esp32"],
+  "license": "",
+  "image" : "/static/display.png",
+  "homepage": "http://www.kbide.org"
+}
