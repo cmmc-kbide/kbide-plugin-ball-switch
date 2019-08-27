@@ -1,11 +1,11 @@
 {
   "name" : "kbide-plugin-ball-switch",
-  "title": "ball-switch",
+  "title": "KY-020 TILT SWITCH MODULE",
   "keywords": "ball-switch, esp32, esp8266, arduino",
   "description": "ball-switch plugin for KB-IDE",
   "category":"",
   "git": "https://github.com/cmmc-kbide/kbide-plugin-ball-switch/",
-  "author": "cmmakerclub",
+  "author": "Prawared",
   "email": "",
   "url": "https://github.com/cmmc-kbide/kbide-plugin-ball-switch/",
   "version": "1.0.0",
